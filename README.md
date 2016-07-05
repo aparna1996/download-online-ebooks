@@ -1,10 +1,10 @@
 # download-online-ebooks
 You can convert like http://www.bestlib4u.com, http://www.freevampires.net etc into ebooks for a comfortable offline reading.
 
-Open the .py file and replace the url with the URL you want to download
-Change num to the total number of pages in the site
-Run the Script with
-$ ./ebook_download.sh
+STEPS:
+1. Open the .py file and replace the url with the URL you want to download
+2.Change num to the total number of pages in the site
+3.Run the Script with $ ./ebook_download.sh
 
 This will create a folder with the text file of the download and the modified epub file.
 
